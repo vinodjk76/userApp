@@ -2,7 +2,7 @@
   "name": "vd05-user-manager",
   "version": "0.1.0",
   "private": true,
-  "homepage" "https://vinodjk76.github.io",
+  "homepage" "https://vinodjk76.github.io/userApp",
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
